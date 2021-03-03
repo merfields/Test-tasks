@@ -1,0 +1,26 @@
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\bin\Debug\netcoreapp3.1\LnkdLst.exe
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\bin\Debug\netcoreapp3.1\LnkdLst.deps.json
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\bin\Debug\netcoreapp3.1\LnkdLst.runtimeconfig.json
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\bin\Debug\netcoreapp3.1\LnkdLst.runtimeconfig.dev.json
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\bin\Debug\netcoreapp3.1\LnkdLst.dll
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\bin\Debug\netcoreapp3.1\LnkdLst.pdb
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.csprojAssemblyReference.cache
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.AssemblyInfoInputs.cache
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.AssemblyInfo.cs
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.csproj.CoreCompileInputs.cache
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.dll
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.pdb
+C:\Users\mrfields\source\repos\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.genruntimeconfig.cache
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\bin\Debug\netcoreapp3.1\LnkdLst.exe
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\bin\Debug\netcoreapp3.1\LnkdLst.deps.json
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\bin\Debug\netcoreapp3.1\LnkdLst.runtimeconfig.json
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\bin\Debug\netcoreapp3.1\LnkdLst.runtimeconfig.dev.json
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\bin\Debug\netcoreapp3.1\LnkdLst.dll
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\bin\Debug\netcoreapp3.1\LnkdLst.pdb
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.csprojAssemblyReference.cache
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.AssemblyInfoInputs.cache
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.AssemblyInfo.cs
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.csproj.CoreCompileInputs.cache
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.dll
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.pdb
+C:\Users\mrfields\Desktop\Test tasks\LnkdLst\LnkdLst\obj\Debug\netcoreapp3.1\LnkdLst.genruntimeconfig.cache
